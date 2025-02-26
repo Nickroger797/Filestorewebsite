@@ -20,13 +20,13 @@ def is_enabled(value, default):
 AUTH_CHANNEL = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('AUTH_CHANNEL', '-1001542373688').split()] # give channel id with seperate space. Ex : ('-10073828 -102782829 -1007282828')
         
 # Bot Information
-API_ID = int(environ.get("API_ID", "15529802"))
-API_HASH = environ.get("API_HASH", "92bcb6aa798a6f1feadbc917fccb54d3")
+API_ID = int(environ.get("API_ID", "21994822"))
+API_HASH = environ.get("API_HASH", "3d2430972bb360876864a636f0f06015")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/d6e3a7c39df4ad0372966.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '821215952').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "XeonFileStoreBot") # without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "Sitefilesto_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -37,8 +37,8 @@ CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
 CDB_NAME = environ.get("CDB_NAME", "clonetechvj")
 
 # Database Information
-DB_URI = environ.get("DB_URI", "")
-DB_NAME = environ.get("DB_NAME", "Xeonfilestore01")
+DB_URI = environ.get("DB_URI", "mongodb+srv://ap8181568:four@cluster4.ojmga.mongodb.net/?retryWrites=true&w=majority&appName=Cluster4")
+DB_NAME = environ.get("DB_NAME", "Cluster4")
 
 # Auto Delete Information
 AUTO_DELETE_MODE = bool(environ.get('AUTO_DELETE_MODE', True)) # Set True or False
