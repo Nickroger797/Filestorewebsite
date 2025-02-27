@@ -53,24 +53,22 @@ sɪᴢᴇ 🪄: {file_size}
 # Don't Remove Credit Tg - @Codexownerr
 # Join Telegram Channel For Amazing Bot https://t.me/codexbotmaker
 # Ask Doubt on telegram @Codexownerr
-
-    ABOUT_TXT = ABOUT_TXT = """<b>👋ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ\n\n🪐Features\n\n1.👉ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ\n2.👉ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ SUPPORT\n3.👉ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ\n\n\n‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ➠ <a href='t.me/codexbotmaker'>Codexownerr</a></b>"""
     
-🧞 ᴍʏ ɴᴀᴍᴇ: {}
+    ABOUT_TXT = """<b>👋ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ\n\n
+🪐Features\n\n
+1.👉ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ\n
+2.👉ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ SUPPORT\n
+3.👉ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ\n\n
+‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ➠ <a href='t.me/codexbotmaker'>Codexownerr</a></b>\n\n
 
-🩸 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
-
-🗡️ ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
-
-🫧 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Codexownerr>Ꮇʀ 𝛸ᴇ𝙾𝛮</a>
-
-⚡ ᴍʏ ʙots channel: <a href='t.me/codexbotmaker'>Codexownerr</a>
-
-🍿 Mᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ: <a href=https://t.me/codexmoviesgroup>Mᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ</a>
-
-🧬 Discuss Group: <a href=https://t.me/codexdisscus>Bᴏᴛ 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+🧞 ᴍʏ ɴᴀᴍᴇ: {}\n
+🩸 ʟᴀɴɢᴜᴀɢᴇ: <a href="https://www.python.org">𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>\n
+🗡️ ʟɪʙʀᴀʀʏ: <a href="https://docs.pyrogram.org">𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>\n
+🫧 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href="https://t.me/Codexownerr">Ꮇʀ 𝛸ᴇ𝙾𝛮</a>\n
+⚡ ᴍʏ ʙots channel: <a href='t.me/codexbotmaker'>Codexownerr</a>\n
+🍿 Mᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ: <a href="https://t.me/codexmoviesgroup">Mᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ</a>\n
+🧬 Discuss Group: <a href="https://t.me/codexdisscus">Bᴏᴛ 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
-
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
