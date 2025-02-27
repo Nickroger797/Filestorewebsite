@@ -56,7 +56,7 @@ sɪᴢᴇ 🪄: {file_size}
 
     ABOUT_TXT = """<b>👋ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ\n\n🪐Features\n\n1.👉ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ\n2.👉ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ SUPPORT\n3.👉ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ\n\n\n‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ➠ <a href='t.me/codexbotmaker'>Codexownerr</a></b>""".
 
-🔮 ᴍʏ ɴᴀᴍᴇ: {}
+ ᴍʏ ɴᴀᴍᴇ: {}
 
 🩸 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
 
